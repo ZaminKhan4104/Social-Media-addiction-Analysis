@@ -1,4 +1,4 @@
-# 📊 Social Media Addiction Analysis Among Students
+# 📊 Social Media Addiction Analysis Among Students Using Excel
 
 This repository contains a data analysis project focused on understanding the impact of **social media addiction** on students across different age groups, academic levels, and platforms. The analysis was performed using **Microsoft Excel**, incorporating charts, slicers, and visual dashboards.
 
